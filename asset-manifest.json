@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/IamAliAlfaqi/static/css/main.6daa1891.css",
+    "main.js": "/IamAliAlfaqi/static/js/main.b4ac5b09.js",
+    "static/js/787.bc7d429a.chunk.js": "/IamAliAlfaqi/static/js/787.bc7d429a.chunk.js",
+    "static/media/me.png": "/IamAliAlfaqi/static/media/me.6d1d38d71bdf48598756.png",
+    "static/media/me-about.jpg": "/IamAliAlfaqi/static/media/me-about.48a8d830c5661af5c7e7.jpg",
+    "index.html": "/IamAliAlfaqi/index.html",
+    "main.6daa1891.css.map": "/IamAliAlfaqi/static/css/main.6daa1891.css.map",
+    "main.b4ac5b09.js.map": "/IamAliAlfaqi/static/js/main.b4ac5b09.js.map",
+    "787.bc7d429a.chunk.js.map": "/IamAliAlfaqi/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6daa1891.css",
+    "static/js/main.b4ac5b09.js"
+  ]
+}
